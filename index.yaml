@@ -10,13 +10,6 @@ platforms:
     description: Espressif ESP32 系列
     vendor: espressif
     repository: https://github.com/zyrthi-io/zyrthi-platform-esp32
-    chips:
-      - esp32
-      - esp32s2
-      - esp32s3
-      - esp32c3
-      - esp32c6
-      - esp32h2
 
   # 未来平台
   # stm32:
@@ -24,7 +17,4 @@ platforms:
   #   description: STMicroelectronics STM32 系列
   #   vendor: st
   #   repository: https://github.com/zyrthi-io/zyrthi-platform-stm32
-  #   chips:
-  #     - stm32f1
-  #     - stm32f4
-  #     - stm32h7
+ 
